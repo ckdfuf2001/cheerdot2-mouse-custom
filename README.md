@@ -24,6 +24,7 @@ CheerDots2 마우스 M버튼 커스터마이저 (Windows). PodMouse 본체는 �
 3. PodMouse 실행 확인 후 도우미 창이 뜹니다
 
 ## 사용법
+cheerdot2 프로그램 실행된 상태에서, start_cheer_double.bat 를 실행합니다.
 
 - **2번클릭** 행: M 누를 때마다 실행
 - 종류:
@@ -37,6 +38,7 @@ CheerDots2 마우스 M버튼 커스터마이저 (Windows). PodMouse 본체는 �
 - `원복(-1,4,2)`: 포인터 순환 복구 + 감시 끄기
 
 자세한 안내와 제약 사항은 `README.txt` 참고.
+
 <img width="1777" height="1035" alt="image" src="https://github.com/user-attachments/assets/781a62c9-20c9-4dbf-9327-a6a96cc12d74" />
 
 ## 파일
