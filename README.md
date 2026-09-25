@@ -1,6 +1,8 @@
 # cheerdot2-mouse-custom
 
-CheerDots2 마우스 M버튼 커스터마이저 (Windows). PodMouse 본체는 수정하지 않습니다.
+CheerDots2 마우스 M버튼 커스터마이저 (Windows). 
+CheerDot2 (PodMouse) 프로그램 설치 후 사용가능함벼, 설정 파일등을 수정하고, PotMouse 본체는 수정하지 않습니다.
+- cheerDot2 다운링크: https://drive.google.com/drive/mobile/folders/1arnb5YFwG4B4lVeYb9hqf-kqwwPyGtx3?usp=drive_link
 
 ## 동작 원리 (리버스 엔지니어링 결과)
 
