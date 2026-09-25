@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.lock
+*_debug.log
+custom_mapping*.json
+double_mapping.json
+.DS_Store
