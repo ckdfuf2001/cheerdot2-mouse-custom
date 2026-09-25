@@ -37,6 +37,7 @@ CheerDots2 마우스 M버튼 커스터마이저 (Windows). PodMouse 본체는 �
 - `원복(-1,4,2)`: 포인터 순환 복구 + 감시 끄기
 
 자세한 안내와 제약 사항은 `README.txt` 참고.
+<img width="1777" height="1035" alt="image" src="https://github.com/user-attachments/assets/781a62c9-20c9-4dbf-9327-a6a96cc12d74" />
 
 ## 파일
 
